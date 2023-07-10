@@ -16,3 +16,8 @@ header{
 .ms-colored-bg{
     background-color: hsl(168.15deg 75.7% 41.96%);
 }
+
+/*FIFTH SECTION*/
+.ms-lightcolored-bg{
+    background-color: hsl(209.41deg 30.54% 32.75%);
+}
