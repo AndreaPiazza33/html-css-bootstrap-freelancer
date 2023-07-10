@@ -21,3 +21,8 @@ header{
 .ms-lightcolored-bg{
     background-color: hsl(209.41deg 30.54% 32.75%);
 }
+
+/*FOOTER*/
+footer{
+    background-color: hsl(210deg 29.03% 24.31%);
+}
