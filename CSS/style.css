@@ -3,6 +3,12 @@
     border: 2px dashed black;
     background-color: chocolate;
 }
+.ms-light-bordered{
+    padding: 2px 5px;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+}
+
 img{
     max-width: 100%;
 }
@@ -11,7 +17,12 @@ header{
     background-color: hsl(210deg 29.03% 24.31%);
     height: 100px;
 }
-
+header h3{
+    color: #ffffff;
+}
+.ms-option-menu{
+    color: #ffffff;
+}
 /*MAIN*/
 
 /*FIRST SECTION*/
