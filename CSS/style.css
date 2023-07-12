@@ -9,8 +9,10 @@
     border-radius: 5px;
 }
 
+
 img{
     max-width: 100%;
+    height: auto;
 }
 /*HEADER*/
 header{
@@ -28,6 +30,14 @@ header h3{
 /*FIRST SECTION*/
 .ms-colored-bg{
     background-color: hsl(168.15deg 75.7% 41.96%);
+}
+/*FOURTH SECTION*/
+.send-label{
+    background-color: hsl(168.15deg 75.7% 41.96%);
+    border: 1px solid hsl(168.15deg 75.7% 41.96%);
+    border-radius: 5px;
+    text-align: center;
+    color: #ffffff;
 }
 
 /*FIFTH SECTION*/
